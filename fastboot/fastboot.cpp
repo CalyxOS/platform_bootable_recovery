@@ -58,6 +58,7 @@ Device::BuiltinAction StartFastboot(Device* device, const std::vector<std::strin
   if (!android::base::EqualsIgnoreCase(hw_version, "0")) {
     title_lines.push_back("HW version - " + hw_version);
   }
+  title_lines.push_back(android::base::GetProperty("ro.calyx.version", ""));
 
   ui->ResetKeyInterruptStatus();
   ui->SetTitle(title_lines);
