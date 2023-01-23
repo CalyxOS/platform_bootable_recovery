@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d7b33b9_d39c4afd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-01-23T23:34:39Z",
+      "side": 1,
+      "message": "Untested.\n\nFingerprint only changes monthly for support devices. This\u0027ll make it easier to see what build exactly a device is on.",
+      "revId": "f9f28dae129fbe86edb3fde27cfa5e74ce9197e5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
