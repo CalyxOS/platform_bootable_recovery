@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3fc690a6_f730b5b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-10-17T19:52:30Z",
+      "side": 1,
+      "message": "We might want this to allow sideload on userdebug builds, since we override build fingerprint and build tags won\u0027t match",
+      "revId": "f6080bc768f12098b29ac90b9cf770bd49b8b42e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
