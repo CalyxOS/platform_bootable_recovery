@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "46e83175_7fa37681",
+        "filename": "tools/recovery_l10n/res/values-gu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-09T17:25:20Z",
+      "side": 1,
+      "message": "Wow, that\u0027s not nice.\n\nસંદેશ -\u003e translation of \"message\".\nમેસેજ -\u003e transileration, literally \"me-se-j\"",
+      "revId": "1b9a6dfe539d0e75d9d182ad1f859d8146e3c66d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
